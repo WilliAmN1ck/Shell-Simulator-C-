@@ -1,0 +1,5 @@
+./hello
+./hello > output
+cat output
+./hello_name < infile.txt
+exit

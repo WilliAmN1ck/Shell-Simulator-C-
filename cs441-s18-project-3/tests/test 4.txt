@@ -1,0 +1,6 @@
+ls
+pwd
+pwd & 
+./hello
+ls ; pwd & date ; jobs ; 
+history ; exit ;
